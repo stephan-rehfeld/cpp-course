@@ -11,7 +11,7 @@ int main() {
 
     // y is NOT initalized, value is indeterminate!
     // Play around with optimatzation parameter (e.g. -O3) to may see differences.
-    int y; 
+    int y;
 
     // It initalized by value 23.
     int z {23};
