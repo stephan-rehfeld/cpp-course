@@ -1,0 +1,6 @@
+{
+    "position" : [0.0, 1.0, 0.0],
+    "direction" : [0.0, 0.0, -1.0],
+    "up_vector" : [0.0, 1.0, 0.0],
+    "field_of_view" : 45.0
+}
