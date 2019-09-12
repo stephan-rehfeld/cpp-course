@@ -9,13 +9,13 @@ type of initializations and not all possible orders are illustrated.
 
 At first compiliation, just use the default optimization level. Observe the values of not initialized variables, such as y and b.
 
-    g++ initalization.cpp -o typinitalizationes
+    g++ initalization.cpp -o initalizationes
     ./initalization
 
 Now compile the example again, this time highest optimization turned on. Compare the results with compilation
 with default optimization and results of other compilers and on other platforms.
 
-    g++ -O3 initalization.cpp -o typinitalizationes
+    g++ -O3 initalization.cpp -o initalizationes
     ./initalization
 
 ### clang
